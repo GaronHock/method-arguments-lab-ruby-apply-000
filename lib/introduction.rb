@@ -1,6 +1,6 @@
 # lib/introduction.rb
 def introduction(name)
-  name = "Garon"
+  name = "Josh"
   puts "Hi, my name is #{name}."
 end
 
