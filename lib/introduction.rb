@@ -1,8 +1,11 @@
 # lib/introduction.rb
-
+def introduction(name)
+  name = "Garon"
+  puts "Hi, my name is #{name}."
+end
 
 def introduction_with_language(name, language)
   name = "Dan"
-  language = ""
+  language = "Ember.js"
   puts "Hi, my name is #{name} and I am learning to program in #{language}."
 end
